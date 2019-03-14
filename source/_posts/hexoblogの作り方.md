@@ -17,7 +17,7 @@ tags: blog
 それでは、実際に作成していきます。
 ローカルでブログ用のディレクトリを作成し、インストールします
 
-` npm install -g hexo-cli `
+``` npm install -g hexo-cli ```
 
 空のディレクトリを作成し、そこで
 
@@ -26,7 +26,6 @@ tags: blog
 
 します。
 
-そこで、
 
 ` npm install `
 
