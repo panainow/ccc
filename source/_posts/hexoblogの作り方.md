@@ -42,11 +42,17 @@ npm install
 hexo s
 ```
 
-で確認。
+http://localhost:4000で確認できます。
+
 
 <img src="GitHub.jpg" alt="" title="hexoblog" width="800">
 
-New repositoryを選択
+＋をクリックしポップアップからNew repositoryを選択
 
 <img src="create_new.jpg" alt="" title="hexoblog" width="800">
 
+
+Repository name のところに好きな名前　(最初、ローカルに作成したディレクトリの名前で可)
+を入力する。
+
+<img src="push.jpg" alt="" title="hexoblog" width="800">
