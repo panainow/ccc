@@ -19,13 +19,17 @@ tags: blog
 
 それでは、実際に作成していきます。
 ローカルでブログ用のディレクトリを作成し、インストールします
+
 ```npm install -g hexo-cli```
 
 空のディレクトリを作成し、そこで
+
 ```hexo init```
+
 します。
 
 そこで、
+
 ```npm install```
 
 これですでにローカルに出来上がり。
@@ -38,4 +42,4 @@ tags: blog
 
 New repositoryを選択
 
-<img src="creat_enew.jpg" alt="" title="hexoblog" width="400">
+<img src="create_new.jpg" alt="" title="hexoblog" width="400">
