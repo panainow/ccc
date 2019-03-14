@@ -7,3 +7,4 @@ tags: blog
 
 それでは、実際に作成していきます。
 インストールします
+```npm install -g hexo-cli```
