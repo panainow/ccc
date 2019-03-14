@@ -10,7 +10,8 @@ tags: blog
 	
 ターミナルを使います。
 
-![alt](/2019/03/14/hexoblog/terminal.jpg "alt")
+<img src="terminal.jpg" alt="" title="hexoblog" >
+
 
 
 
