@@ -55,13 +55,13 @@ http://localhost:4000  で確認できます。
 Repository name のところに好きな名前　(最初、ローカルに作成したディレクトリの名前で可)
 を入力する。
 
-<img src="push.jpg" alt="" title="hexoblog" width="200">
+ここをクリック　<img src="push.jpg" alt="" title="hexoblog" width="200"> で決定。
 
-で決定。
 
 <img src="front.jpg" alt="" title="hexoblog" width="800">
 
-一度、ターミナルに戻り、先ほど作成したディレクトリで
+
+この画面で一度、ターミナルに戻り、先ほど作成したディレクトリで
 
 ```
 git init
@@ -69,7 +69,7 @@ git add .
 git commit -m "作成"
 ```
 
-<img src="setup.jpg" alt="" title="hexoblog" width="400">
+<img src="setup.jpg" alt="" title="hexoblog" width="800">
 
 これをコピーしてきて
 ```
@@ -79,3 +79,8 @@ git remote add origin git@github.com:panainow/uuu.git
 ```
 git push -u origin master
 ```
+ここまでコマンドを入力したらもう一度、GitHubに戻り、
+
+
+
+画面が変わっていることを確認。
