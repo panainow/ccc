@@ -10,7 +10,11 @@ tags: blog
 	
 ターミナルを使います。
 
-<img src="/2018/03/14/hexoblogの作り方/terminal.jpg" width="300px" height="200px">
+![alt](terminal.jpg "hexoblog")
+=>
+<img src="terminal.jpg" alt="alt" title="hexoblog">
+
+
 コレですね。
 
 それでは、実際に作成していきます。
