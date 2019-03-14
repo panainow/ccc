@@ -16,3 +16,4 @@ tags: blog
 ローカルでブログ用のディレクトリを作成し、
 インストールします
 ```npm install -g hexo-cli```
+
