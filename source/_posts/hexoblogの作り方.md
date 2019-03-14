@@ -10,7 +10,7 @@ tags: blog
 	
 ターミナルを使います。
 
-![alt](/2018/03/14/hexoblog/terminal.jpg "alt")
+![alt](/2019/03/14/hexoblog/terminal.jpg "alt")
 
 
 
