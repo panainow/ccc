@@ -92,4 +92,4 @@ git push -u origin master
 ログインし、
 <img src="netlify.jpg" alt="" title="hexoblog" width="800">
 <img src="newsite.jpg" alt="" title="hexoblog" width="400">
-ここをクリック
+New site from Gitをクリック
