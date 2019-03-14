@@ -12,29 +12,30 @@ tags: blog
 
 <img src="terminal.jpg" alt="" title="hexoblog" width="400">
 
-
-
-
 コレですね。
 
 それでは、実際に作成していきます。
 ローカルでブログ用のディレクトリを作成し、インストールします
 
-``` npm install -g hexo-cli ```
+``` npm install -g hexo-cli
+```
 
 空のディレクトリを作成し、そこで
 
-``` hexo init ```
+``` hexo init
+```
 
 します。
 
 そこで、
 
-```npm install```
+```npm install
+```
 
 これですでにローカルに出来上がり。
 
-``` hexo s ```
+``` hexo s 
+```
 
 で確認。
 
