@@ -55,7 +55,7 @@ http://localhost:4000  で確認できます。
 Repository name のところに好きな名前　(最初、ローカルに作成したディレクトリの名前で可)
 を入力する。
 
-ここをクリック　<img src="push.jpg" alt="" title="hexoblog" width="200"> で決定。
+こちらをクリック　<img src="push.jpg" alt="" title="hexoblog" width="200"> 
 
 
 <img src="front.jpg" alt="" title="hexoblog" width="800">
@@ -84,3 +84,12 @@ git push -u origin master
 
 
 画面が変わっていることを確認。
+
+<img src="up.jpg" alt="" title="hexoblog" width="800">
+
+### Netlify　に移動
+
+ログインし、
+<img src="netlify.jpg" alt="" title="hexoblog" width="800">
+<img src="newsite.jpg" alt="" title="hexoblog" width="400">
+ここをクリック
