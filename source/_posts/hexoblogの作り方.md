@@ -10,7 +10,7 @@ tags: blog
 	
 ターミナルを使います。
 
-<img src="terminal.jpg" alt="" title="hexoblog" width="200">
+<img src="terminal.jpg" alt="" title="hexoblog" width="400">
 
 
 
@@ -20,4 +20,18 @@ tags: blog
 それでは、実際に作成していきます。
 ローカルでブログ用のディレクトリを作成し、インストールします
 ```npm install -g hexo-cli```
-表示確認できますか？
+
+空のディレクトリを作成し、そこで
+```hexo init```
+します。
+
+そこで、
+```npm install```
+
+これですでにローカルに出来上がり。
+
+```hexo s```
+
+で確認。
+
+<img src="GitHib.jpg" alt="" title="hexoblog" width="400">
