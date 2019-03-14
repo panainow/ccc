@@ -42,7 +42,7 @@ npm install
 hexo s
 ```
 
-http://localhost:4000で確認できます。
+http://localhost:4000  で確認できます。
 
 
 <img src="GitHub.jpg" alt="" title="hexoblog" width="800">
@@ -55,4 +55,27 @@ http://localhost:4000で確認できます。
 Repository name のところに好きな名前　(最初、ローカルに作成したディレクトリの名前で可)
 を入力する。
 
-<img src="push.jpg" alt="" title="hexoblog" width="800">
+<img src="push.jpg" alt="" title="hexoblog" width="200">
+
+で決定。
+
+<img src="front.jpg" alt="" title="hexoblog" width="800">
+
+一度、ターミナルに戻り、先ほど作成したディレクトリで
+
+```
+git init
+git add .
+git commit -m "作成"
+```
+
+<img src="setup.jpg" alt="" title="hexoblog" width="400">
+
+これをコピーしてきて
+```
+git remote add origin git@github.com:panainow/uuu.git
+```
+
+```
+git push -u origin master
+```
