@@ -10,7 +10,7 @@ tags: blog
 	
 ターミナルを使います。
 
-<img src="terminal.jpg" alt="" title="hexoblog" >
+<img src="terminal.jpg" alt="" title="hexoblog" width="200">
 
 
 
