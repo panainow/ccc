@@ -34,4 +34,8 @@ tags: blog
 
 で確認。
 
-<img src="GitHib.jpg" alt="" title="hexoblog" width="400">
+<img src="GitHub.jpg" alt="" title="hexoblog" width="400">
+
+New repositoryを選択
+
+<img src="creat_enew.jpg" alt="" title="hexoblog" width="400">
