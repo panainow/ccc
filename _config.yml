@@ -16,7 +16,7 @@ timezone:
 url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
-permalink_defaults:
+permalink_defaults: :year/:month/:day/:title/
 
 # Directory
 source_dir: source
