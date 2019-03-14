@@ -8,12 +8,11 @@ tags: blog
 現状、理解してないです。
 実際に試して進めていきます。
 	
-<img src="/2018/03/14/hexoblogの作り方/ターミナル.jpg" width="300px" height="200px" align="left">
 ターミナルを使います。
 
-
-<img src="ターミナル.jpg" alt="alt" title="hexoblogの作り方" width="100">
+<img src="/2018/03/14/hexoblogの作り方/terminal.jpg" width="300px" height="200px">
 コレですね。
+
 それでは、実際に作成していきます。
 ローカルでブログ用のディレクトリを作成し、インストールします
 ```npm install -g hexo-cli```
