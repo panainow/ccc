@@ -1,7 +1,7 @@
 ---
 title: hexoblog
 date: 2019-03-14 13:07:16
-tags: blog
+tags: Hexo
 ---
 #### hexoでブログを始める
 全くの初心者なので細かいとこは
