@@ -3,10 +3,10 @@ title: hexoblog
 date: 2019-03-14 13:07:16
 tags: blog
 ---
-#### hexoでブログ作成
+#### hexoでブログを始める
 全くの初心者なので細かいとこは
-現状、理解してないです。
-実際に試して進めていきます。
+後から修正していく予定。
+まずは実際に試して進めていきます。
 	
 ターミナルを使います。
 
@@ -88,8 +88,22 @@ git push -u origin master
 <img src="up.jpg" alt="" title="hexoblog" width="800">
 
 ### Netlify　に移動
+他にもいろいろありますが、Netlifyを
+わたしは選択。
+登録は特に問題なく進んだので省きます。
 
-ログインし、
+ログインできたら
 <img src="netlify.jpg" alt="" title="hexoblog" width="800">
 <img src="newsite.jpg" alt="" title="hexoblog" width="400">
 New site from Gitをクリック
+
+あとはサイトの名前を好きなように変更
+して大体終了です。
+`Site setting`
+から
+`Change Site name`
+
+独自ドメインに変更はまた今度。
+
+
+
