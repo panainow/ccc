@@ -88,6 +88,10 @@ git push -u origin master
 <img src="up.jpg" alt="" title="hexoblog" width="800">
 
 ### Netlify　に移動
+
+<img src="netlifytop.png" alt="" title="hexoblog" width="800">
+
+
 他にもいろいろありますが、Netlifyを
 わたしは選択。
 登録は特に問題なく進んだので省きます。
