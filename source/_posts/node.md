@@ -1,5 +1,5 @@
 ---
-title: Nodeとは
+title: Node.jsとは
 date: 2019-03-18 16:36:48
 tags: Node.js
 ---
@@ -28,3 +28,34 @@ Node.jsの言語でもあるJavaScriptは、
 ※ コンパイルとは、プログラミング言語で書かれた文字列（ソースコード）を、コンピュータ上で実行可能な形式（オブジェクトコード）に変換することです。 コンパイルを行うソフトウェアをコンパイラといい、変換されるプログラミング言語をコンパイラ型言語と呼ぶ。
 
 <img src="globe.png" alt="" title="node" width="300">
+
+では、Node.jsをインストールしていきます。
+
+- Homebrew 
+- nodebrew
+- Node.js
+をインストールしていきます。
+
+ [Homebrew](https://brew.sh/index_ja.html)
+
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+インストール後の確認方法。
+```
+$ brew -v
+$ Homebrew 2.0.3
+$ Homebrew/homebrew-core (git revisionec52; last commit 2019-03-09)
+```
+nodebrewのインストール
+```
+$ brew install nodebrew
+```
+からのVer.確認
+```
+nodebrew -v
+```
+
+Pathを通す、、、Pathを通す？！、、、ちょっと何言ってるかわかりません。
+
+ので、一旦中断して環境変数とかPathとか理解します。

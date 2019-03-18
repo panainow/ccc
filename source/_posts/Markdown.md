@@ -45,6 +45,13 @@ Markdown記法 忘れたときのための用意に、要点を書きとめて�
 
 ## リンク
 
+```
+[Google](http://google.com)
+[Wikipedia](https://ja.wikipedia.org/)
+[Instagram](https://www.instagram.com)
+```
+
+
 [Google](http://google.com)
 [Wikipedia](https://ja.wikipedia.org/)
 [Instagram](https://www.instagram.com)
@@ -52,13 +59,13 @@ Markdown記法 忘れたときのための用意に、要点を書きとめて�
 
 ## 太文字・斜体
 
+```
 **太文字**
 *斜体*
+```
 
-```
 **太文字**
 *斜体*
-```
 
 ## リスト
 
