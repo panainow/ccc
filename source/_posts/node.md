@@ -55,6 +55,8 @@ $ brew install nodebrew
 ```
 nodebrew -v
 ```
+あれ？ファイルが見つからない？
+んん？
 
 Pathを通す、、、Pathを通す？！、、、ちょっと何言ってるかわかりません。
 
