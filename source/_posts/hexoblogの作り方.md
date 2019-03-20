@@ -7,11 +7,9 @@ tags: Hexo
 全くの初心者なので細かいとこは
 後から修正していく予定。
 まずは実際に試して進めていきます。
-```
-$ npm install -g hexo-cli 
-```
+
 <!--- more --->
-<img src="top.png" alt="" title="hexoblog" width="600">
+<img src="top.png" alt="" title="hexoblog" width="1200">
 ターミナルを使います。
 <img src="terminal.png" alt="" title="hexoblog" width="350">
 
