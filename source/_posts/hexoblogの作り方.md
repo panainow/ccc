@@ -7,9 +7,12 @@ tags: Hexo
 全くの初心者なので細かいとこは
 後から修正していく予定。
 まずは実際に試して進めていきます。
-	
+```
+$ npm install -g hexo-cli 
+```
+<!--- more --->
+<img src="top.png" alt="" title="hexoblog" width="600">
 ターミナルを使います。
-
 <img src="terminal.png" alt="" title="hexoblog" width="350">
 
 コレですね。
@@ -17,7 +20,7 @@ tags: Hexo
 それでは、実際に作成していきます。
 ローカルでブログ用のディレクトリを作成し、インストールします
 
-<!--- more --->
+
 ```
 npm install -g hexo-cli
 ```
